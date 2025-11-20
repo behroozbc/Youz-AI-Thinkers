@@ -38,9 +38,12 @@ Youz is a smart, AI-powered app that removes language and information barriers w
 The landmark can be very similar but with different history, usage, city and meaning! which cause simple RAG return inaccurate data! This problem is very critical for your users because we want to help them to understand landmarks. 
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
+# Example:  Zoroastrian fire temple
+
+::left::
 <style>
 img{
   padding:3px;
@@ -80,11 +83,6 @@ img {
 <v-click>
 Make the prompt and get the result!
 </v-click>
----
-layout: center
----
-
-# Lets see in the code!!!
 
 ---
 
@@ -100,3 +98,9 @@ layout: center
   - gemini-embedding-001
   - gemini-2.5-flash-lite
   - Nomic Embed Vision v1.5
+---
+layout: center
+---
+
+# Lets see in the code!!!
+
